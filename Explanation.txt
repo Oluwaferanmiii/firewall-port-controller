@@ -1,0 +1,6 @@
+This python script is to open and close a firewall port using ip address.
+The script restricts random ip address from accessing the website unless given permission
+
+To run this script
+1. run on cmd 'python C:/path to script file/script name .py
+2. On any browser 'ip address of remote desktop:8080(port number)/?action=open or close
